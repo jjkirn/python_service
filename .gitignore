@@ -1,0 +1,17 @@
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+/python-venv
+/Kakarakis_Manos_Microservices_using_Docker_with_Python.pptx
+pip-selfcheck.json
+.env
+news.cfg
+weather.cfg
